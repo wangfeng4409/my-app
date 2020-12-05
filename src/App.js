@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom'
 import { Router, Route, browserHistory, IndexRedirect, Link } from 'react-router'
 
 // 引入对应的组件
-import Index from './Index'
-import List from './List'
-import Details from './Details'
+import Index from './reactRouter/Index'
+import List from './reactRouter/List'
+import Details from './reactRouter/Details'
 
 export default class App extends Component {
   render() {

@@ -1,1 +1,1 @@
-import './reactRouter/App'
+import './App'
